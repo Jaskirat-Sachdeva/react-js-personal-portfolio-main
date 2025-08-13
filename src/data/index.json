@@ -33,7 +33,7 @@
     {
       "id": "1",
       "src": "./img/jammming.png",
-      "title": "React Web Application using Spotify API",
+      "title": "React Web Application using Spotify API (Personal)",
       "category": "Personal",
       "date": "2024-05-01",
       "description": "In this project, I successfully developed a React web application named 'Jammming.' Leveraging my new knowledge in React components, state management, and interaction with the Spotify API, I created a dynamic platform that allows users to explore the Spotify library, curate personalized playlists, and save them to their Spotify accounts. Moreover, I utilized HTML and CSS to design a user-friendly interface and applied Git for version control, ensuring smooth project progression.",
@@ -91,7 +91,7 @@
       "category": "Personal",
       "date": "2023-09-01",
       "description": "Independently designed and developed a personal portfolio website using React and modern frontend development practices. Created a responsive, visually appealing interface with reusable components and interactive sections to showcase projects, skills, and work experience.",
-      "link": ""
+      "link": "https://github.com/Jaskirat-Sachdeva/react-js-personal-portfolio-main"
     }
   ],
   "certifications": [

@@ -11,7 +11,7 @@ export default function Certifications() {
       <div className="portfolio--container-box">
         <div className="portfolio--container">
           <h1 className="skills--sections--heading">
-            Certifications & Courses
+            Certifications
           </h1>
         </div>
       </div>
