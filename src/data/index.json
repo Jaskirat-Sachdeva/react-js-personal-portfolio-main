@@ -1,0 +1,133 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/leonardo.png",
+      "date": "09/2024–Present",
+      "title": "Leonardo (Software Engineer):",
+      "description": "Contributed to end-to-end software development lifecycle including requirements engineering,\nfeature & Software Architecture design, coding in C++ for embedded defence systems, actively participated in lab-based testing, implementing BDD based tests, documentation, and system validation activities. I also took on Scrum Master responsibilities within teams, facilitating Scrum events like stand ups and retrospectives and also building CI pipelines to streamline software quality assurance and delivery."
+    },
+    {
+      "id": "2",
+      "src": "./img/microsoft.png",
+      "date": "11/2023–12/2023",
+      "title": "Microsoft Mentorship Program (Mentee)",
+      "description": "Excelled in a competitive 5-week mentorship at Microsoft, focusing on Azure integration and project management, resulting in a highly commended project for its innovation and practical application in real-world scenarios.\nDeveloped research, presentation, and collaboration skills under the guidance of experienced Microsoft mentors, exploring various career paths."
+    },
+    {
+      "id": "3",
+      "src": "./img/ashven.JPG",
+      "date": "06/2020–08/2024",
+      "title": "AAA Emporia Limited (Junior Web Designer)",
+      "description": "Transformed e-commerce operations by leading the development and optimisation of product listings using WordPress, enhancing user experience through web design and driving a significant increase in online sales."
+    },
+    {
+      "id": "4",
+      "src": "./img/sikhwisdom.png",
+      "date": "06/2020–Present",
+      "title": " Sikh Wisdom (Junior Web Designer & Digital Marketing Volunteer)",
+      "description": "Drove the digital transformation of Sikh Wisdom by innovating in web development and SEO strategies, increasing website traffic and user engagement – reaching 4K monthly visits."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/jammming.png",
+      "title": "React Web Application using Spotify API",
+      "category": "Personal",
+      "date": "2024-05-01",
+      "description": "In this project, I successfully developed a React web application named 'Jammming.' Leveraging my new knowledge in React components, state management, and interaction with the Spotify API, I created a dynamic platform that allows users to explore the Spotify library, curate personalized playlists, and save them to their Spotify accounts. Moreover, I utilized HTML and CSS to design a user-friendly interface and applied Git for version control, ensuring smooth project progression.",
+      "link": "https://youtu.be/OAgPDHgnHuM"
+    },
+    {
+      "id": "2",
+      "src": "./img/monkey.png",
+      "title": "Year 1 - Team Games Project",
+      "category": "University",
+      "date": "2021-04-01",
+      "description": "As a vital member of a four-person team, we crafted a captivating side-scrolling game guiding a monkey's movement from left to right, collecting coconuts while avoiding bombs. We integrated gameplay mechanics like a health and point system to enhance challenge and engagement. I assumed a leadership role, organized regular coding sessions with pair programming, and ensured smooth collaboration via Git. We actively engaged in all stages from design to implementation and presented the project to peers, showcasing technical and communication skills.",
+      "link": "https://youtu.be/zeFUeZavgr4"
+    },
+    {
+      "id": "3",
+      "src": "./img/calculator.png",
+      "title": "Year 2 - Individual Project",
+      "category": "University",
+      "date": "2022-03-01",
+      "description": "As part of my software engineering module, I developed a calculator application handling both infix and postfix expressions using Java, JavaFX, and Maven. I applied SDLC best practices and Test-Driven Development (TDD) with JUnit, alongside Git and Gitflow for version control. I used SceneBuilder to create a user-friendly UI. The project demonstrated my technical ability and design skills, earning an A* grade (80%+), despite the final numerical grade being unavailable due to marking strikes.",
+      "link": "https://youtu.be/DC-XE9L7yeo"
+    },
+    {
+      "id": "4",
+      "src": "./img/restaurant.png",
+      "title": "Year 2 - Team Project",
+      "category": "University",
+      "date": "2022-05-01",
+      "description": "In a team of nine, we developed a restaurant management system using Python Flask, SQLAlchemy, and HTML/CSS to fulfill client user stories from Trello. I co-led the team, structured the codebase, and managed backend database models. I ensured all user stories were implemented and created starter templates for the team. Additionally, I handled project documentation and maintained functionality throughout development. My contributions were recognized with a 97% grade for the project.",
+      "link": "https://youtu.be/rso2Cpb39LI"
+    },
+    {
+      "id": "5",
+      "src": "./img/car_dealership.png",
+      "title": "Car Dealership Web Application (Personal)",
+      "category": "Personal",
+      "date": "2024-07-01",
+      "description": "Successfully developed and deployed a full-stack web application for car dealerships using Django, React, and Node.js. Integrated user authentication, dynamic pages, and backend services with MongoDB, enhancing the functionality and user experience of the dealership's website. Implemented a CI/CD pipeline and containerised microservices using Docker and Kubernetes. Deployed a sentiment analysis service on IBM Cloud Code Engine to evaluate user reviews, demonstrating proficiency in cloud-native application development and deployment.",
+      "link": ""
+    },
+    {
+      "id": "6",
+      "src": "./img/map.png",
+      "title": "Offline HTML5 Maps Application (Final Year Project)",
+      "category": "University",
+      "date": "2024-04-01",
+      "description": "Developed an interactive map application using HTML5 technologies, including Canvas and IndexedDB, for storing and rendering geographic data offline; features include geolocation, dynamic searching, and distance calculation. Implemented advanced features such as offline data processing of JSON files into spatial data structures and a user interface supporting zoom, pan, and location-based functionalities, enhancing map usability on desktop and mobile devices.",
+      "link": "https://youtu.be/25Rin3Ftk3g"
+    },
+    {
+      "id": "7",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Portfolio Website (Personal)",
+      "category": "Personal",
+      "date": "2023-09-01",
+      "description": "Independently designed and developed a personal portfolio website using React and modern frontend development practices. Created a responsive, visually appealing interface with reusable components and interactive sections to showcase projects, skills, and work experience.",
+      "link": ""
+    }
+  ],
+  "certifications": [
+  {
+    "id": "1",
+    "src": "./img/coursera.png",
+    "title": "AI Engineering (IBM – Professional Certificate)",
+    "issuer": "Coursera · IBM · Jul 2025 – Present",
+    "description": "Currently completing a 13-course IBM-endorsed professional certificate covering machine learning, deep learning, neural networks, and generative AI. Developing AI models using TensorFlow, PyTorch, and Keras, and building LLM-powered applications with Hugging Face, LangChain, and Gradio for real-world use cases.",
+    "date": "2025-07-01"
+  },
+  {
+    "id": "2",
+    "src": "./img/coursera.png",
+    "link":"https://www.coursera.org/account/accomplishments/specialization/HQ2MKM170CMP",
+    "title": "IT Scrum Master (IBM – Professional Certificate)",
+    "issuer": "Coursera · IBM · Feb 2025 – Jul 2025",
+    "description": "Completed an 8-course IBM-endorsed professional certificate covering Agile project management, Scrum facilitation, DevOps, IT fundamentals, and the SDLC. Gained hands-on experience leading Agile initiatives via scenario-based projects and a Scrum Master capstone project simulating real IT delivery environments.",
+    "date": "2025-07-01"
+  },
+  {
+    "id": "3",
+    "src": "./img/coursera.png",
+    "link": "https://coursera.org/share/bbacdfdaa9b77b57fea4e078c481b28f",
+    "title": "Full Stack Software Developer (IBM – Professional Certificate)",
+    "issuer": "Coursera · IBM · Jun 2024 – Jul 2024",
+    "description": "Covered essential front-end and back-end technologies like Node.js, React, and Django, along with cloud-native tools like Docker and Kubernetes. Developed and deployed multiple cloud-native applications, reinforcing CI/CD pipelines, containerisation, and microservices skills.",
+    "date": "2024-07-01"
+  },
+  {
+    "id": "4",
+    "src": "./img/scrumalliance.png",
+    "title": "Certified ScrumMaster® (Scrum Alliance)",
+    "issuer": "Scrum Alliance · Sep 2025",
+    "description": "Enrolled in the Scrum Alliance Certified ScrumMaster® course, focusing on Agile principles, Scrum framework, and team facilitation techniques. The course will cover sprint planning, backlog refinement, stakeholder communication, and removing impediments for high-performing teams. Certification exam to be sat after course completion.",
+    "date": "2025-09-01"
+  }
+]
+}
